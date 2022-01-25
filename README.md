@@ -14,5 +14,6 @@ Introduction to Python Parser.Parsing is defined as the processing of a piece of
 3. eval: When st represents an 'eval' form, this function returns true, otherwise it returns false
 
 
-For more information: 32.1. parser — Access Python parse trees — Python 3.4.2 documentation (cmi.ac.in)
+For more information: https://docs.python.org/3.7/library/parser.html
+
 
